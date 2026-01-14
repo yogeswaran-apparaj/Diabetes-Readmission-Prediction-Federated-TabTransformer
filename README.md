@@ -54,7 +54,7 @@ This project addresses all four challenges in a single end-to-end pipeline.
 ### 4. Explainable AI
 - **SHAP:** Global feature importance
 - **LIME:** Patient-level prediction explanations
-
+---
 ## 🔄Workflow Pipeline
 ```text
 Data Collection
@@ -71,7 +71,7 @@ Global Model Evaluation
       ↓
 Explainability (SHAP + LIME)
 ```
-
+---
 ## 📈 Model Performance Summary
 
 | Metric    | Baseline | Federated |
